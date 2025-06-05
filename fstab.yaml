@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/sudheernayak31/sudheer-storefront/
+    type: markup
+
+folders:
+  /products/: /products/default
