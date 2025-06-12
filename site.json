@@ -28,8 +28,8 @@
   "headers": {},
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://edge-graph.adobe.io/api/d376660b-c2c3-4176-87ed-f5f5a99626b6/graphql",
-      "commerce-endpoint": "https://edge-graph.adobe.io/api/d376660b-c2c3-4176-87ed-f5f5a99626b6/graphql",
+      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/KNw4KD91rwhsKb8xyvnVFF/graphql",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/KNw4KD91rwhsKb8xyvnVFF/graphql",
       "headers": {
         "all": {
           "Store": "default"
